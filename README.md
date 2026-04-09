@@ -45,17 +45,19 @@ The dashboard was created using Power BI to transform raw hotel reservation data
 
 ## Screenshots
 
-### Main Dashboard
-![Main Dashboard](main-dashboard.png)
+## Screenshots
 
-### Room Detail Analysis
-![Room Detail Analysis](room-detail-analysis.png)
+### Hotel Performance Dashboard
+![Hotel Performance Dashboard](hotel-performance-dashboard.png)
 
-### Trend Analysis
-![Trend Analysis](trend-analysis.png)
+### Reservation Analysis (Drill-Down)
+![Reservation Analysis](reservation-analysis.png)
 
-### Monthly Price and Nights Analysis
-![Monthly Price and Nights Analysis](monthly-analysis.png)
+### Drill-Through Overview
+![Drill-Through Overview](drill-through-overview.png)
+
+### Room Detail
+![Room Detail](room-detail.png)
 
 ## Dataset
 
