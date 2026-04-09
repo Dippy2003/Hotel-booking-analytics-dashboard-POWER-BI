@@ -37,17 +37,19 @@ This project is an interactive Power BI dashboard built to analyze hotel booking
 
 ## Screenshots
 
+## Screenshots
+
 ### Main Dashboard
-![Main Dashboard](screenshots/overview.png)
+![Main Dashboard](Screenshot 2026-04-09 111820.png)
 
 ### Room Detail Analysis
-![Room Detail](screenshots/room-details.png)
+![Room Detail Analysis](Screenshot 2026-04-09 111832.png)
 
 ### Trend Analysis
-![Trend Analysis](screenshots/trends.png)
+![Trend Analysis](Screenshot 2026-04-09 111840.png)
 
 ### Monthly Price and Nights Analysis
-![Monthly Analysis](screenshots/monthly-analysis.png)
+![Monthly Price and Nights Analysis](Screenshot 2026-04-09 111848.png)
 
 ## How to Use
 
